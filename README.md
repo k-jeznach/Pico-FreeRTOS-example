@@ -1,1 +1,1 @@
-This example is basen on: git remote add origin https://github.com/k-jeznach/Pico-FreeRTOS-example.git
+This example is based on: git remote add origin https://github.com/k-jeznach/Pico-FreeRTOS-example.git
